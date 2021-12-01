@@ -1,0 +1,1 @@
+java -jar C:\Javist\matmod2\out\artifacts\matmod2_jar\matmod2.jar
